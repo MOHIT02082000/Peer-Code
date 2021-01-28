@@ -4,5 +4,6 @@ An Online Coding Question Solving Platform .
 
 Website:  https://peer-code.web.app/
 
-![name-of-you-image](https://ibb.co/d0YLhpX)
+#Getting Started with Create React App
 
+This project was bootstrapped with Create React App.
